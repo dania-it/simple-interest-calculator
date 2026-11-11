@@ -1,6 +1,6 @@
 #!/bin/bash
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
-# Repo upstream origin: https://github.com
+# Repo upstream origin:https://github.com/dania-it/simple-interest-calculator/blob/main/simple-interest.sh
 
 echo "Enter the principal:"
 read p
