@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
+# Repo upstream origin: https://github.com
 
 echo "Enter the principal:"
 read p
